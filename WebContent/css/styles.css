@@ -1,0 +1,22 @@
+body {background-color:#362F2D; color:#000;}
+a {color:#D50;}
+a:hover, a:active, a:focus {color:#000 !important;}
+#main-top, #main-bottom, #main {background-color:#fff;}
+#main #header h1 span {color:#fff;}
+#content table {border:2px solid #B1A39D;}
+#content table th, #content table td {border:1px solid #C7BDB9;}
+#content table th {color:#d50;}
+#content table tr.bg td {background:#F3F1F1;}
+#content .info {color:#7C6B62;}
+#content .img img {border:1px solid #DDD7D5; background:#fff;}
+#aside ul li a {border-bottom:1px solid #EAE6E5;}
+#aside ul.ul-02 li a {color:#524745;}
+#aside .title {color:#fff;}
+#footer {background-color:#282320;}
+#footer h3 {color:#fff;}
+#footer ul li a {border-bottom:1px solid #443B36; color:#FFCEAD;}
+#footer ul li a:hover {color:#fff !important;}
+#links, #links a {color:#A29188;}
+#links a:hover {color:#fff !important;}
+.input {border:1px solid #aaa; background-color:#fff;}
+.submit {color:#fff;}

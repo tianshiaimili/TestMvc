@@ -1,0 +1,47 @@
+body {margin: 5px;padding: 0;line-height: 1.5em;font-family: "Times New Roman", Times, serif;font-size: 14px;color: #000000;   background: #f2e7ca url(images/templatemo_body.jpg) top center no-repeat;  }
+
+a, a:visited {
+	color:#0196e3;
+	text-decoration:none;
+	outline:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+a img{
+	border:none;
+}
+
+table {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+	width:98%;
+	
+}
+table th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+h1, h2, h3, h4, h5, h6, address, blockquote, dl, fieldset, ol, p, table, ul {margin:15px 0;}
+
+.input {padding:5px; background:url("/images/input.gif") 0 0 no-repeat;}
+.input {border:1px solid #aaa; background-color:#fff;}
+.submit {color:#fff;}
+
+

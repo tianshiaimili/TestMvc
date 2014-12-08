@@ -1,0 +1,8 @@
+body {text-align:center;}
+#center {text-align:left;}
+#main #header h1 span {display:inline;}
+#content {width:585px;}
+#aside {width:280px; margin-right:-55px}
+#aside .title {position:relative; width:305px;}
+.box {height:1%;}
+.input, .submit {height:29px;}

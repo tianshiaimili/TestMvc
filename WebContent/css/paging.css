@@ -1,0 +1,9 @@
+
+
+/*css technorati style pagination*/
+div.technorati{padding:3px;margin:3px; width:100%; text-align:center;}
+div.technorati a{ display:block; width:55px; height:55px;background-position:50% bottom;font-weight:bold;color:#333333;margin-right:3px;text-decoration:none; font-size:30px;line-height:40px; float:left;}
+div.technorati a:hover{background-image:none;color:#fff;background-color:#4261df;}                                                                     
+div.technorati a:active{background-image:none;color:#fff;background-color:#4261df;}                                                                     
+div.technorati span.current{font-weight:bold;color:#000;margin-right:3px;}
+div.technorati span.disabled{display:none;}
